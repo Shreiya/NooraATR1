@@ -1,6 +1,5 @@
 # NooraATR1
-WEBP, PNG and MP4 files (animated versions of the illustrations) to be used 
-as background of sections at main page of https://www.noorahealth.org/atr2020\
+WEBP, PNG and MP4 files (animated versions of the illustrations) to be used as background of sections at main page of https://www.noorahealth.org/atr2020\
 \
 Use shared png or webp files to avoid blinking after video start.\
 \
